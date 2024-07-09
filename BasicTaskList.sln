@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicTaskList.Api", "BasicTaskList.Api\BasicTaskList.Api.csproj", "{393118DC-9A50-4C9E-99A5-2E5FA3AFB4F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicTaskList.Api.ArchitectureTests", "BasicTaskList.Api.ArchitectureTests\BasicTaskList.Api.ArchitectureTests.csproj", "{D4344711-9C01-4AEC-80BD-19CF06411E92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393118DC-9A50-4C9E-99A5-2E5FA3AFB4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393118DC-9A50-4C9E-99A5-2E5FA3AFB4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393118DC-9A50-4C9E-99A5-2E5FA3AFB4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393118DC-9A50-4C9E-99A5-2E5FA3AFB4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4344711-9C01-4AEC-80BD-19CF06411E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4344711-9C01-4AEC-80BD-19CF06411E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4344711-9C01-4AEC-80BD-19CF06411E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4344711-9C01-4AEC-80BD-19CF06411E92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
