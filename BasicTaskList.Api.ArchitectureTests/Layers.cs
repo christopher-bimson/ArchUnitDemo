@@ -30,5 +30,5 @@ public static class Layers
     public static readonly IObjectProvider<IType> Model = ArchRuleDefinition.Types()
         .That()
         .ResideInNamespace("BasicTaskList.Api.Model.*", true)
-        .As("model layer");
+        .As("MVC model layer");
 }
